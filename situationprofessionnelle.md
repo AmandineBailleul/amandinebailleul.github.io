@@ -37,4 +37,7 @@ des fichiers. Comme je peux avoir accès aux paramètres du VPN j'ai pu voir les
 temps d'ouverture des fichiers acceptable, 4 secondes depuis chez eux à 1 seconde en entreprise, et vu que on a utiliser le pare-feu car il gère le VPN, cela n'a rien couter à 
 l'entreprise. 
 
+## Bilan personnel
+La première idée avait été pensé car c'était une solution que je connaissais déjà, et qui était la plus rapide à mettre en place. Mais par acquis de conscience j'ai été vérifier si il y avait des risques, et il en avait. Grace à cette situation j'ai compris l'importance de vérifié l'efficacité de la solutions pensée et pas seulement mettre directement en place la première solutions qui vient et de voir par la suite les éventuelle problèmes. Il me reste une limite que j'assume, je n'ai pas mis en place de sauvegarde de journaux du pare-feu, qui
+s'écrase au bout de 30 jours, cela sera la prochaine étape des choses à traiter. 
 
