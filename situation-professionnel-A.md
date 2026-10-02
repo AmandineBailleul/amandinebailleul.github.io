@@ -28,7 +28,7 @@
   <p>En octobre, dans la PME de métallurgie où je suis en alternance, il y a 45 poste. Deux des commerciaux font du télétravail 2 jours par semaines.</p>
 
   <h2>Problématique</h2>
-  <p>Le problème posé, daté et mesuré. Depuis quand ? Qui était gêné, et à quel point ?</p>
+  <p>Les deux commerciaux ont besoins des devis pour travailler, mais comme il est impossible d'avoir accès aux données depuis l'extérieur de l'entreprise. La solution actuelle c'est qu'ils s'envoyaient sur leurs propres boites mail les fichiers. L'inconvenant c'est que personne ne savaient quelle versions du fichier devis ils avaient, que les devis donné pouvaient étre éronné et un manque de sécurité en cas de piratage de leurs propre boites mail personnelles. Donc le responsable SI m'a donné un mois pour trouver une solution et dans un budget limité.</p>
 
   <h2>Démarche</h2>
   <p>Ce que vous avez testé, dans l'ordre. Ce que vous avez écarté, et sur quel critère.
