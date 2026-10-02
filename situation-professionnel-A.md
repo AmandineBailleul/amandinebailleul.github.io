@@ -31,8 +31,24 @@
   <p>Les deux commerciaux ont besoins des devis pour travailler, mais comme il est impossible d'avoir accès aux données depuis l'extérieur de l'entreprise. La solution actuelle c'est qu'ils s'envoyaient sur leurs propres boites mail les fichiers. L'inconvenant c'est que personne ne savaient quelle versions du fichier devis ils avaient, que les devis donné pouvaient étre éronné et un manque de sécurité en cas de piratage de leurs propre boites mail personnelles. Donc le responsable SI m'a donné un mois pour trouver une solution et dans un budget limité.</p>
 
   <h2>Démarche</h2>
-  <p>Ce que vous avez testé, dans l'ordre. Ce que vous avez écarté, et sur quel critère.
-     C'est le bloc que le jury lit le plus attentivement.</p>
+  <p>J'ai du réfléchir à une solution: trois possibilités sont apparu:
+- Ouverture du bureau à distance sur internet en redirigent le port sur la box.
+  avantage: c'est gratuit.
+  inconvénient: après avoir reçu une alerte de CERT-FR, J'ai découvert qu'il y avait de grand probabilité de piratage de donner et qu'il a comme conséquence les voles de donnée sensible et
+  importante. 
+  Conclusion: cette solution a été mise de coter.
+
+- Mettre tout les fichiers commerciaux sur un espace en ligne sur un espace chez un hébergeur.
+  Il n'y a pas d'avantage à utilisé cette solution.
+  Inconvénient: deux fois plus de charge de travail car il faut synchroniser les fichiers sur les deux systèmes et qu'il faudrait un abonnement par utilisateur donc à long termes le budget
+   donner sera depassé.
+  Conclusion: cette solution a été mise de coter.
+
+- Mettre ne place un VPN sur le pare-feu de l'entreprise, sur les deux ordinateurs de l'entreprise qui pourront ce connecter au réseaux internet et travailler sur les fichiers d'orrigines.
+  Avantages : Le prix de l'abonnement VPN est plus abordable et peu avoir plusieurs utilisateur sur une session, les fichiers mise à jours directement donc moins de risque sur des erreurs
+  de devis et une meilleur sécurisation des données.
+  Inconvénient: aucune.
+  Conclusion: c'est cette solution que j'ai appliqué pour résoudre le probleme.</p>
 
   <h2>Outils mobilisés</h2>
   <ul>
