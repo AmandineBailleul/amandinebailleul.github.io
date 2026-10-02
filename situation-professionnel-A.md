@@ -25,7 +25,7 @@
   <p class="meta">Lieu ou contexte (anonymisé) — période — option SISR / SLAM</p>
 
   <h2>Contexte</h2>
-  <p>Où, quand, pour qui. Trois lignes.</p>
+  <p>En octobre, dans la PME de métallurgie où je suis en alternance, il y a 45 poste. Deux des commerciaux font du télétravail 2 jours par semaines.</p>
 
   <h2>Problématique</h2>
   <p>Le problème posé, daté et mesuré. Depuis quand ? Qui était gêné, et à quel point ?</p>
