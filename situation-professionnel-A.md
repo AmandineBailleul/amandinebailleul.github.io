@@ -24,13 +24,13 @@
   <h1>Mise en place du travail à distance</h1>
   <p class="meta">Lieu ou contexte (anonymisé) — période — option SISR / SLAM</p>
 
-  <h2>Contexte</h2>
+  Contexte
   <p>En octobre, dans la PME de métallurgie où je suis en alternance, il y a 45 poste. Deux des commerciaux font du télétravail 2 jours par semaines.</p>
 
-  <h2>Problématique</h2>
+  Problématique
   <p>Les deux commerciaux ont besoins des devis pour travailler, mais comme il est impossible d'avoir accès aux données depuis l'extérieur de l'entreprise. La solution actuelle c'est qu'ils s'envoyaient sur leurs propres boites mail les fichiers. L'inconvenant c'est que personne ne savaient quelle versions du fichier devis ils avaient, que les devis donné pouvaient étre éronné et un manque de sécurité en cas de piratage de leurs propre boites mail personnelles. Donc le responsable SI m'a donné un mois pour trouver une solution et dans un budget limité.</p>
 
-  <h2>Démarche</h2>
+  Démarche
   <p>J'ai du réfléchir à une solution: trois possibilités sont apparu:
 - Ouverture du bureau à distance sur internet en redirigent le port sur la box.
   avantage: c'est gratuit.
@@ -50,21 +50,21 @@
   Inconvénient: aucune.
   Conclusion: c'est cette solution que j'ai appliqué pour résoudre le probleme.</p>
 
-  <h2>Outils mobilisés</h2>
+  Outils mobilisés
   <ul>
     <li>Outil ou matériel — version</li>
     <li>Outil ou matériel — version</li>
   </ul>
 
-  <h2>Précautions prises</h2>
+  Précautions prises</h2>
   <p>Sauvegarde, test de restauration, fenêtre d'intervention, information des utilisateurs,
      décharge électrostatique… ce que vous avez protégé avant d'agir.</p>
 
-  <h2>Résultats</h2>
+  Résultats</h2>
   <p>Un avant, un après, un chiffre : un débit, une durée, une température, un nombre de postes
      ou de tickets.</p>
 
-  <h2>Bilan personnel</h2>
+  Bilan personnel
   <p>Une limite assumée, un apprentissage, et ce que vous feriez autrement demain.</p>
 
   <div class="competences">
